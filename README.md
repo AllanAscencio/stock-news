@@ -96,7 +96,7 @@ Author
 👤 **Allan Ascencio**
 
 - [Github](https://github.com/AllanAscencio)
-- [Linkedin]((https://www.linkedin.com/in/gianfranco-allan))
+- [Linkedin](https://www.linkedin.com/in/gianfranco-allan)
 
 
 ## Considerations
